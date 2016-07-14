@@ -1,4 +1,4 @@
-package montrose.problem2;
+package mn.problem2;
 
 import static org.junit.Assert.*;
 
